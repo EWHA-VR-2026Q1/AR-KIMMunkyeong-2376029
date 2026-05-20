@@ -59,10 +59,9 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.62f3\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\VuforiaLicense.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Assets\Resources\alpha.shader" />
+    <Compile Include="Assets\HW20_LimitedBody\SnapObject.cs" />
+    <Compile Include="Assets\HW20_LimitedBody\TapObject.cs" />
+    <Compile Include="Assets\HW20_LimitedBody\DragObject.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
